@@ -1,2 +1,3 @@
 # hello-world
-for a good start...
+
+Starting the journey with the programming
